@@ -1,2 +1,2 @@
 # Netflix-clone
-https://Akash-vadakkeveetil.github.io/Netflix-clone
+Akash-vadakkeveetil.github.io/Netflix-clone
